@@ -9,9 +9,11 @@ This module is made by MJØD and set togheter from 2 other small modules: iPress
 
 Fancy pics here:
 
+- Hidden *The keycode you see in bottom right is the iPress module, which is just used to display what key that is pressed last.*
 ![hide](https://github.com/l0b5ter/KeyDisplayed/blob/master/hide.PNG)
 
-
+- Show first page *The keycode you see in bottom right is the iPress module, which is just used to display what key that is pressed last.*
 ![show1](https://github.com/l0b5ter/KeyDisplayed/blob/master/show1.PNG)
 
+- Show second page *The keycode you see in bottom right is the iPress module, which is just used to display what key that is pressed last.*
 ![show2](https://github.com/l0b5ter/KeyDisplayed/blob/master/show2.PNG)
