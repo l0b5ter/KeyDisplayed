@@ -1,5 +1,5 @@
 # KeyDisplayed
-Use the keyboard to open and close new popupwindow in the magicmirror. Like lets say using the "q" key which is for the news, will open a popupwindow on magicmirror's webpage.
+Use the keyboard to open and close new popupwindow in the magicmirror. Like lets say using the "q" key which is for the news, will open a popupwindow on magicmirror's webpage. With the iFrame to display web content
 
 The KeyDisplayed folder you see above is the module, move it over to your modules folder.
 Inside the module folder theres another readme.mk file which contains info of what to put into the config.js file.
