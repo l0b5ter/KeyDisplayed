@@ -17,3 +17,5 @@ Fancy pics here:
 
 - Show second page *The keycode you see in bottom right is the iPress module, which is just used to display what key that is pressed last.*
 ![show2](https://github.com/l0b5ter/KeyDisplayed/blob/master/show2.PNG)
+
+Any question or help should be asked directly to me, either here on github or our discord server.
