@@ -2,7 +2,7 @@ This module is made by MJØD, which they used on their project. It detect keypre
 
 
 
-Put this in config.js
+Put this in config.js under modules
 
 		{
 			module: "KeyDisplayed",
