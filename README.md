@@ -9,3 +9,4 @@ This module is made by MJØD and set togheter from 2 other small modules: iPress
 
 Fancy pics here:
 
+![hide](https://github.com/l0b5ter/KeyDisplayed/hide.png)
