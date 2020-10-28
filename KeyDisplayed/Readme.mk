@@ -7,7 +7,7 @@ Put this in config.js under modules
 		{
 			module: "KeyDisplayed",
 			position: "top_center", //position (look here for all possible positions: https://forum.magicmirror.builders/topic/286/regions)
-			config: { // To overwrite defualt
+			config: { // To overwrite default
 				url: [[113, "http://magicmirror.builders/"], [97, "https://vg.no"], [100, "https://www.dagbladet.no/"]], //[[KeyCode, "url"], [KeyCode, "url"]], Notice: 101 used to close window (key: e).
 				frameWidth: "700px", //popupwindow width
 				frameHeight: "500px", //popupwindow height
